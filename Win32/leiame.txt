@@ -1,4 +1,6 @@
 Win32/leiame.txt
 
-Quando for abrir o projeto Delphi10 na sua máquina, crie uma subpasta (Debug) dentro da pasta Win32 ex: 
+1) Quando for abrir o projeto Delphi10 na sua máquina, crie uma subpasta (Debug) dentro da pasta Win32 ex: 
 < ProjetoCrud\Win32\Debug > e depois copie todos os arquivos desta pasta Win32 do Github para a subpasta Debug recém criada.
+
+2) Querendo testar somente o AppCrud.exe deve estar funcionando, assim espero. Clique 2X no seu Windows.
