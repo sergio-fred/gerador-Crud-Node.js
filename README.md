@@ -30,9 +30,9 @@ Instale o Node.js.
 Decompacte o arquivo gerado numa pasta com o nome do projeto.
 Abra o console de comando do sistema operacional (no Windons 10, win+R, digite 'CMD').
 Abra a pasta do projeto e execute o servidor Node.js com: ' <node "Nome do projeto"> '
-Abra o App gerado no navegador, via endereço <endereço:http://localhost:3000>
+Abra o App gerado no navegador, via endereço http://localhost:3000
 
-e) REQUISITOS DE TECNOLOGIA
+e) REQUISITOS DE TECNOLOGIA: 
 Node.js, versão 14.0
 Express, versão 4.17.1
 SQLite, versão 5.0.2
