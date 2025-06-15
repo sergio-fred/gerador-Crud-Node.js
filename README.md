@@ -1,8 +1,9 @@
 # gerador-Crud-Node.js
 Gerador para CRUD em Node.js. É um executável win10 que aceita bd com 2 tabelas 1:N, gera app em Node.
+(trata-se de um software em fase de teste, pode surgir anomalias funcionais. Favor relatar).
 
-Gerador de CRUD - Node.js, Express, MySQL 5.0+
-App com 2 tabelas relacionadas
+Tecnologia aplicada: delphi10, MySQL. Gera CRUD em Node.js, Express, MySQL 5.0+
+
 Solicite ajuda em programador1.com@gmail.com
 
 a) PROCEDIMENTOS COM BANCO DE DADOS
