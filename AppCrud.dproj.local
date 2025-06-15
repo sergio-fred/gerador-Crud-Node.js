@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/21 15:00:26.000.420,=C:\PROJETO_App_Web\AppCRUD\Unit1.pas</Transaction>
+    <Transaction>2021/08/21 15:01:49.000.414,C:\PROJETO_App_Web\AppCRUD\Unit1.pas=C:\PROJETO_App_Web\AppCRUD\editaDados.pas</Transaction>
+    <Transaction>2021/09/02 10:26:28.000.748,=C:\PROJETO_App_Web\AppCRUD\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 10:28:17.000.185,C:\PROJETO_App_Web\AppCRUD\log.pas=C:\PROJETO_App_Web\AppCRUD\Unit1.pas</Transaction>
+    <Transaction>2021/09/07 16:15:43.000.431,=C:\PROJETO_App_Web\AppCRUD\Unit1.pas</Transaction>
+    <Transaction>2021/09/07 16:16:36.000.617,C:\PROJETO_App_Web\AppCRUD\limparDados.pas=C:\PROJETO_App_Web\AppCRUD\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
