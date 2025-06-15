@@ -21,7 +21,7 @@ Ao abrir o App acessa a internet, conecta o MySQL e carrega todos os BDs salvos.
 4) Digite o nome do projeto (sem espaço, acento, pontuação).
 5) Clique no botão para produzir o App e aguardar o processamento.
 
-c) ESTRUTURA DO BD e DOWNLOAD do CRUD GERADO
+c) ESTRUTURA DO BD e o CRUD GERADO
 O App mostrará a estrutura do seu BD para conferência
 Estando tudo correto, uma pasta será criada no disco com o App Node.js.
 
