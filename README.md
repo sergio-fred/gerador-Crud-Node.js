@@ -11,7 +11,6 @@ Prepare o BD MySQL 5.0+ com 2 tabelas relacionadas em 1-para-muitos (1:n).
 O relacionamento (1:n) deve ser referenciado, conforme ex.:
 
 CREATE TABLE tabela_mestre ( ID_mestre integer PRIMARY KEY AUTOINCREMENT, Campo_mestre1 Text, Campo_mestre2 Text );
-
 CREATE TABLE tabela_detalhes ( ID_detalhe integer PRIMARY KEY AUTOINCREMENT, Atributo_detalhe1 text, Atributo_detalhe2 text, FK_detalhe integer, FOREIGN KEY (FK_detalhe) REFERENCES tabela_mestre (ID_mestre) ON DELETE CASCADE);
 
 b) PARA GERAR O App CRUD
@@ -29,7 +28,7 @@ Estando tudo correto, uma pasta será criada no disco com o App Node.js.
 d) EXECUTAR O CRUD GERADO
 Você precisará ter o Node.js versão 10+ instalado. Ver em https://nodejs.org/pt-br/
 Instale o Node.js.
-Decompacte o arquivo gerado numa pasta com o nome do projeto.
+Veja a pasta criada com o App gerad0.
 Abra o console de comando do sistema operacional (no Windons 10, win+R, digite 'CMD').
 Abra a pasta do projeto e execute o servidor Node.js com: ' <node "Nome do projeto"> '
 Abra o App gerado no navegador, via endereço http://localhost:3000
