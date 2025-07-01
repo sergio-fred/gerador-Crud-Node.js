@@ -6,6 +6,8 @@ Tecnologia aplicada: delphi10, MySQL. Gera CRUD em Node.js, Express, MySQL 5.0+
 
 Solicite ajuda em programador1.com@gmail.com
 
+Vídeo no Youtube https://youtu.be/hEjCGKT44BM
+
 a) PROCEDIMENTOS COM BANCO DE DADOS: 
 Prepare o BD MySQL 5.0+ com 2 tabelas relacionadas em 1-para-muitos (1:n).
 O relacionamento (1:n) deve ser referenciado, conforme ex.:
